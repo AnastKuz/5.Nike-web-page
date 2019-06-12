@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit&display=swap');
+
+body {
+  max-width: 1680px;
+  width: 100%;
+  font-family: 'Kanit', sans-serif;
+}
+
+.container {
+  max-width: 1116px;
+  widows: 100%;
+}
+
+.menu1 {
+  background-color: #472424;
+}
+
+.menu1 a {
+  font-size: 13px;
+  line-height: 2;
+  color: #ffffff;
+}
+
+.menu1 a:hover {
+  background-color: #ff7373;
+  color: #ffffff;
+}
+
+.menu2 {
+  background-color: #623232;
+}
+
+.navbar-brand {
+  padding-left: 1rem;
+}
+
+.menu-two a {
+  font-size: 18px;
+  line-height: 2;
+  color: #ffffff;
+}
+
+.menu-two a:hover {
+  color: #ff7373;
+}
+
+.menu2 a img {
+	margin-top: 12px;
+}
+
+/* HEADER */
+
+header {
+  background-color: #f0efee;
+}
+
+header img {
+  margin-top: -94px;
+  margin-left: -198px;
+}
+
+.card {
+  background-color: #f0efee;
+  border: none;
+  padding-top: 113px;
+  padding-bottom: 134px;
+}
+
+.card h3 {
+  font-size: 30px;
+  color: #623232;
+}
+
+.card h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: #623232;
+}
+
+.card h2 {
+  font-size: 50px;
+  font-weight: bold;
+  color: #ff7373;
+}
+
+.card p {
+  font-size: 16px;
+  line-height: 1.63;
+  color: #8a8784;
+}
+
+.card a {
+  background-color: #ff7373;
+  font-size: 16px;
+  line-height: 1.63;
+  color: #ffffff;
+  text-transform: uppercase;
+  width: 255px;
+  height: 48px;
+  padding-top: 9px;
+}
+
+/* NIKES */
+
+.nike1 {
+  width: 540px;
+  height: 540px;
+  background-image: url(../img/nike1.png);
+  color: white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.nike1 img {
+	padding-top: 20px;
+}
+
+.nike1 p {
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: -86px;
+}
+
+.nike1 h4 {
+   color: #4bd8cd;
+   text-align: center;
+   text-transform: uppercase;
+   font-weight: bold;
+   margin-top: -20px;
+}
+
+.nike1 a {
+  font-size: 16px;
+  line-height: 1.63;
+  color: #000000;
+  font-weight: bold;
+  text-transform: uppercase;
+  width: 211px;
+  height: 48px;
+  background-color: #4bd8cd;
+  margin-top: 330px;
+  margin-left: 160px;
+  padding-top: 9px;
+}
+
+.nike2 {
+  width: 540px;
+  height: 255px;
+  background-color: #ff7373;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+.nike2 p {
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: -200px;
+  margin-left: 180px;
+}
+
+.nike2 h4 {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #ffffff;
+  text-align: center;
+  margin-left: 180px;
+  margin-top: -20px;
+}
+
+.nike2 img {
+  margin-top: -22px;
+}
+
+.nike2 a {
+  font-size: 16px;
+  line-height: 1.63;
+  color: #ffffff;
+  width: 145px;
+  height: 48px;
+  background-color: #623232;
+  text-transform: uppercase;
+  padding-top: 10px;
+  margin-left: 286px;
+  margin-top: 30px;
+}
+
+.nike2 a:hover {
+  color: #ffffff;
+}
+
+.nike3 {
+  background-image: url(../img/nike3.png);
+  width: 255px;
+  height: 255px;
+  margin-top: -305px;
+  margin-left: 570px;
+}
+
+.nike4 {
+  background-image: url(../img/nike4.png);
+  width: 255px;
+  height: 255px;
+  margin-top: -305px;
+  margin-left: 855px;
+}
+
+.nike3 p {
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 150px;
+}
+
+.nike3 h4 {
+  font-size: 30px;
+  text-align: center;
+  color: #ff7373;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: -20px;
+}
+
+.nike4 p {
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 30px;
+}
+
+.nike4 h4 {
+  color: #6b7072;
+  font-size: 30px;
+  text-align: center;
+  margin-top: -20px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
