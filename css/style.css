@@ -327,3 +327,43 @@ header .card a {
 }
 
 
+.people {
+  background-color: #472424;
+}
+
+.people .card {
+  background-color: transparent;
+}
+
+.people .card {
+  font-size: 16px;
+  line-height: 1.63;
+  color: #ffffff;
+  margin-top: 100px;
+  margin-bottom: 28px;
+  border: none;
+  opacity: 0.4;
+}
+
+.people .card:hover {
+  opacity: 0.9;
+}
+
+.people .text-row {
+  font-size: 16px;
+  line-height: 1.63;
+  text-align: center;
+  color: #ffffff;
+  background-color: #5a3a3a;
+}
+
+.people .text-row p {
+  padding-top: 65px;
+  padding-left: 52px;
+  padding-right: 52px;
+  padding-bottom: 47px;
+}
+
+.people .t-row {
+  padding-bottom: 100px;
+}

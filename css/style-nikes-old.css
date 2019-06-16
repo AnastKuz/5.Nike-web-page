@@ -1,0 +1,139 @@
+/* NIKES */
+
+.nike1 {
+  width: 540px;
+  height: 540px;
+  background-image: url(../img/nike1.png);
+  color: white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.nike1 img {
+	padding-top: 20px;
+}
+
+.nike1 p {
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: -86px;
+}
+
+.nike1 h4 {
+   color: #4bd8cd;
+   text-align: center;
+   text-transform: uppercase;
+   font-weight: bold;
+   margin-top: -20px;
+}
+
+.nike1 a {
+  font-size: 16px;
+  line-height: 1.63;
+  color: #000000;
+  font-weight: bold;
+  text-transform: uppercase;
+  width: 211px;
+  height: 48px;
+  background-color: #4bd8cd;
+  margin-top: 330px;
+  margin-left: 160px;
+  padding-top: 9px;
+}
+
+.nike2 {
+  width: 540px;
+  height: 255px;
+  background-color: #ff7373;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+.nike2 p {
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: -200px;
+  margin-left: 180px;
+}
+
+.nike2 h4 {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #ffffff;
+  text-align: center;
+  margin-left: 180px;
+  margin-top: -20px;
+}
+
+.nike2 img {
+  margin-top: -22px;
+}
+
+.nike2 a {
+  font-size: 16px;
+  line-height: 1.63;
+  color: #ffffff;
+  width: 145px;
+  height: 48px;
+  background-color: #623232;
+  text-transform: uppercase;
+  padding-top: 10px;
+  margin-left: 286px;
+  margin-top: 30px;
+}
+
+.nike2 a:hover {
+  color: #ffffff;
+}
+
+.nike3 {
+  background-image: url(../img/nike3.png);
+  width: 255px;
+  height: 255px;
+  margin-top: -305px;
+  margin-left: 570px;
+}
+
+.nike4 {
+  background-image: url(../img/nike4.png);
+  width: 255px;
+  height: 255px;
+  margin-top: -305px;
+  margin-left: 855px;
+}
+
+.nike3 p {
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 150px;
+}
+
+.nike3 h4 {
+  font-size: 30px;
+  text-align: center;
+  color: #ff7373;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: -20px;
+}
+
+.nike4 p {
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 30px;
+}
+
+.nike4 h4 {
+  color: #6b7072;
+  font-size: 30px;
+  text-align: center;
+  margin-top: -20px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+
