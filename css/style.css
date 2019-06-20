@@ -56,7 +56,7 @@ header {
 }
 
 header img {
-  margin-top: -84px;
+  margin-top: -65px;
   margin-left: -198px;
 }
 
@@ -64,7 +64,6 @@ header .card {
   background-color: #f0efee;
   border: none;
   padding-top: 113px;
-  padding-bottom: 134px;
 }
 
 header .card h3 {
@@ -326,9 +325,18 @@ header .card a {
   margin-top: 28px;
 }
 
+.brands {
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
+
 
 .people {
-  background-color: #472424;
+  background-image: url(../img/bg-red.png);
+}
+
+.people-cards {
+  margin-bottom: 60px;
 }
 
 .people .card {
@@ -358,12 +366,90 @@ header .card a {
 }
 
 .people .text-row p {
-  padding-top: 65px;
+  padding-top: 37px;
   padding-left: 52px;
   padding-right: 52px;
-  padding-bottom: 47px;
+  padding-bottom: 27px;
 }
 
 .people .t-row {
   padding-bottom: 100px;
 }
+
+.news {
+  background-color: #ffffff;
+}
+
+.news .inside-card {
+  margin-top: 180px;
+}
+
+.news .news-heading {
+  font-size: 30px;
+  color: #623232;
+}
+
+.news-cards {
+  margin-bottom: 100px;
+}
+
+.help {
+  background-color: #ff7373;
+}
+
+.sec-row {
+  flex-direction: column;
+}
+
+.help img {
+  margin-top: 65px;
+}
+
+.help a {
+  background-color: #623232;
+  margin-top: 60px;
+}
+
+.help-row {
+  padding-bottom: 30px;
+}
+
+footer {
+  background-color: #623232
+}
+
+footer .f-first {
+  flex-direction: column;
+}
+
+footer .f-row {
+  padding-top: 60px;
+  padding-bottom: 47px;
+}
+
+hr {
+  background-color: #ffffff;
+  height: 0.01px;
+}
+
+.s-p {
+  color: #ff7373;
+  margin-bottom: 2px;
+}
+
+.sf-column, .ss-column {
+  margin-top: 100px;
+}
+
+footer br {
+  line-height: 2.25;
+}
+
+footer .s-row {
+  margin-bottom: 105px;
+}
+
+footer .hr-second {
+  margin-bottom: 42px;
+}
+
